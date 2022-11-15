@@ -1,4 +1,4 @@
-Simple Calculator in Python
+<h1>Simple Calculator in Python</h1>
 
 This is my first small project in Python. My goal is to become a Python developer and specialise in AI and ML.
 
